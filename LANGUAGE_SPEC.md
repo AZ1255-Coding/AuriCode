@@ -18,7 +18,7 @@ Variables store values.
 
 Example:
 
-name = "Aryan"
+name = "AZ1255"
 score = 100
 
 ---
