@@ -10,6 +10,7 @@ print "Hello"
 
 ## Condition:
 if score > 50, then:
+   
     print "Passed"
 
 ---
