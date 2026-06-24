@@ -48,7 +48,7 @@ Example:
 
 String
 
-name = "Aryan"
+name = "AZ1255"
 
 Number
 
@@ -75,7 +75,7 @@ print "Passed"
 
 Example:
 
-if name = "Aryan", then:
+if name = "AZ1255", then:
 print "Welcome"
 
 ---
